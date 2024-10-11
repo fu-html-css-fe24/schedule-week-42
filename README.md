@@ -20,7 +20,6 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 ## Resurser
 
 ### Presentationer
-Inga presentationer denna vecka
 
 
 ### Inspelade föreläsningar
