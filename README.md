@@ -42,6 +42,8 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 
 ### Övningar
 * [Github Basics Bootcamp](https://github.com/fu-html-css-fe24/exercise-github-basics-bootcamp/tree/main)
+* [VS Code Bootcamp](https://github.com/fu-html-css-fe24/exercise-vscode-bootcamp)
+* [HTML Bootcamp](https://github.com/fu-html-css-fe24/exercise-html-bootcamp/tree/main)
 
 
 
