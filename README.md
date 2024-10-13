@@ -20,7 +20,9 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 ## Resurser
 
 ### Presentationer
-
+* [Kursintro](https://docs.google.com/presentation/d/1SdLLLz0Mfv1kdk_E62K_sXfaJXZ_Bfa6/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Versionshantering och GitHub](https://docs.google.com/presentation/d/1jWZzTJr8cb19PM_0GOTBD_peeEQzwll3/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [HTML](https://docs.google.com/presentation/d/1OSvulGemuC6dqiNMx7vCgPU2Joxkkj4w/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -31,10 +33,12 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 
 ### Filmer
 * [HTML in 5 minutes](https://www.youtube.com/watch?v=salY_Sm6mv4)
+* [Top 5 best VS Code extensions](https://www.youtube.com/watch?v=xQcpQfEumQw)
 
 ### Länkar
 * [Git Downloads](https://git-scm.com/downloads)
 * [Git Cheat Sheet](https://gist.github.com/Santosnr6/0741f2c607404f75fea8dc0910ded790)
+* [W3 Schools - HTML Tutorial](https://www.w3schools.com/html/)
 
 ### Övningar
 * [Github Basics Bootcamp](https://github.com/fu-html-css-fe24/exercise-github-basics-bootcamp/tree/main)
