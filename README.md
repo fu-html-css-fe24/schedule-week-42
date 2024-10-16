@@ -23,6 +23,7 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 * [Kursintro](https://docs.google.com/presentation/d/1SdLLLz0Mfv1kdk_E62K_sXfaJXZ_Bfa6/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Versionshantering och GitHub](https://docs.google.com/presentation/d/1jWZzTJr8cb19PM_0GOTBD_peeEQzwll3/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [HTML](https://docs.google.com/presentation/d/1OSvulGemuC6dqiNMx7vCgPU2Joxkkj4w/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [CSS](https://docs.google.com/presentation/d/17Pbi9rZ3ptKJeYDEzffQ7rAmMPGjayB4/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
