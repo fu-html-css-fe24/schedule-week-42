@@ -29,6 +29,7 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 
 ### Lektionsrepon
 * [14 okt, HTML]()
+* [16 okt, CSS](https://github.com/fu-html-css-fe24/lecture-16-okt-css)
 
 
 ### Filmer
