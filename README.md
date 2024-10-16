@@ -26,10 +26,13 @@ Senare under veckan kommer vi dessutom att lära oss grunderna i CSS, som exempe
 * [CSS](https://docs.google.com/presentation/d/17Pbi9rZ3ptKJeYDEzffQ7rAmMPGjayB4/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
+* [14 okt, Git](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EWK0Sm26Ho5KuV8Is7WKcDMBO9pkdLWq-5S7RPOeGAcROg?e=8X9b3E)
+* [14 okt, HTML](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EYhTfs8C9H1ErK-tcxkv76gBRHUjIXyypQ2iw6zfdPUHyA?e=jtFntd)
+* [16 okt, CSS](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUSumLCd1AxHuYZ3VhCrSnUBNahppEQmYU-2Qg4Gm4BhWw?e=o9q8Lr)
 
 
 ### Lektionsrepon
-* [14 okt, HTML]()
+* [14 okt, HTML](https://github.com/fu-html-css-fe24/lecture-14-okt-html)
 * [16 okt, CSS](https://github.com/fu-html-css-fe24/lecture-16-okt-css)
 
 
